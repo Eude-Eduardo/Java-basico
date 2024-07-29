@@ -1,2 +1,2 @@
 # Java-basico-DIO
-Guardar todo conteúdo do curso java basico
+Guardar todo conteúdo do curso JAVA basico
