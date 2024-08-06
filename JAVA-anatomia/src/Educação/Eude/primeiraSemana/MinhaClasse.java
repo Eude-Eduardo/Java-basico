@@ -1,4 +1,4 @@
-package edu.Eude.primeiraSemana;
+package Educação.Eude.primeiraSemana;
 public class MinhaClasse {
 
 public static void main (String [] args){

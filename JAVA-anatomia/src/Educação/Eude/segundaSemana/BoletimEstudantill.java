@@ -1,4 +1,4 @@
-package edu.Eude.segundaSemana;
+package Educação.Eude.segundaSemana;
 public class BoletimEstudantill {
     public static void main(String[] args){
         int mediaFinal = 7;
