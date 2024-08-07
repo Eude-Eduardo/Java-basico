@@ -1,4 +1,4 @@
-package Educação.Eude.Aula3;
+package Educação.Eude.Aula03;
 
 public class tiposVariaveis {
     public static void main(String[] args) throws Exception{

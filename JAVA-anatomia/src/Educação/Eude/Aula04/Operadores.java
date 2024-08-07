@@ -1,5 +1,5 @@
+package Educação.Eude.Aula04;
 import java.util.Date;
-
 public class Operadores {
     
     public static void main(String[] args) {
@@ -136,3 +136,4 @@ public class Operadores {
     
 
 } 
+
