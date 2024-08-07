@@ -1,4 +1,4 @@
-package Educação.Eude.Aula02;
+package Educação.Eude.Aula2;
 public class BoletimEstudantill {
     public static void main(String[] args){
         int mediaFinal = 7;

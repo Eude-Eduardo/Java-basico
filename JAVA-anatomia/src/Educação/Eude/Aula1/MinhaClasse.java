@@ -1,4 +1,4 @@
-package Educação.Eude.Aula01;
+package Educação.Eude.Aula1;
 public class MinhaClasse {
 
 public static void main (String [] args){
