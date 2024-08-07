@@ -105,6 +105,32 @@ public class Operadores {
                 System.out.println(n1 + " é menor ou igual a " + n2);
             if (n1 >= n2)// false
                 System.out.println(n1 + " é maior ou igual a " + n2);
+
+            System.out.println("________________________");
+        // lógicos
+            /*&& Operador Lógico "E"
+
+              || Operador Lógico "OU" */
+              boolean condicao1=true;
+
+              boolean condicao2=false;
+
+            if (condicao1 && condicao2){// true e false
+                System.out.println("São verdadeiras");
+            }
+            if (condicao1 && !condicao2){// true e !false(false negado)
+                System.out.println("São verdadeiras");
+            }
+            if (condicao1 && (8 >= 1) ){
+                System.out.println("8 é maior que 4 e a condição 1 é verdadeira");
+            }
+            if (condicao1 || condicao2){// Uma delas é true
+                System.out.println("pelo menos uma é true");
+            }
+            
+            System.out.println("FIM!");
+
+
                 
     }       
     
