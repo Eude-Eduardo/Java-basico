@@ -42,10 +42,10 @@ public class Métodos {
     //NÃO EXISTE EM JAVA O CONCEITO DE MÉTODOS GLOBAIS. TODOS OS MÉTODOS DEVEM SEMPRE SER DEFINIDOS DENTRO DE UMA CLASSE.
 
     //Ex:
-
+    // VOID não retorna nada
     public double somar(int num1, int num2){
         // lógica
-        return 1.0;
+        return 1.0;// precisa do return pois não tem um void 
     }
     public void imprimir(String texto){
 		//LOGICA - FINALIDADE DO MÉTODO
@@ -55,4 +55,6 @@ public class Métodos {
     public double dividir(int dividendo, int divisor) throws Exception{//throws Exception(Exeção)
         return 1.0;
     }
+    private void metodoPrivado(){}
+
 }
