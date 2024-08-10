@@ -24,7 +24,7 @@ public class User {
         System.out.println("NEW -> " + smartTv.ligada);
 
         smartTv.inserirCanal(10);
-        
+
         System.out.println("__==__");
         System.out.println("Novo Status -> Canal atual: " + smartTv.canal);
         System.out.println("Novo Status -> Volume atual: " + smartTv.volume);
