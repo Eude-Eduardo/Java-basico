@@ -9,8 +9,6 @@ public class ContaTerminal {
                 System.out.println("Por favor! Digite o número da conta:");
                 int numeroConta = sc.nextInt();
 
-                
-
                 System.out.print("Agora o número da sua agência:");
                 String agencia = sc.next();
 
