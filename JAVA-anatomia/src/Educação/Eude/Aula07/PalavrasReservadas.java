@@ -149,7 +149,16 @@ public class PalavrasReservadas {
 
 
     //Palavras "opostas"
+   /*  Assim como nas classificações gramaticais da língua portuguesa, existem algumas palavras que são completamente opostas (antônimas) na linguagem Java conforme tabela abaixo:*/
 
+    // Palavra | Palavra    |Enquanto package determina o diretório real da classe, o import informe de onde será imprtada a classe. Isso porque podemos ter classes de mesmo nome.
 
+    // package | import     |enquanto extends determinas que uma classe estende outra classe, implements determina que uma classe implementa uma interface, porém nunca o contrário
+
+    // extends | implements |enquanto final determina fim de alteração de valor ou lógica comportamental, abstract em métodos exige que sub-classes precisarão definir comportamento é um método abstrato. NOTA: Se uma classe contém um único método abstrato, toda classe precisa ser.
+
+    // final   | abstract   |enquanto final determina fim de alteração de valor ou lógica comportamental, abstract em métodos exige que sub-classes precisarão definir comportamento é um método abstrato. NOTA: Se uma classe contém um único método abstrato, toda classe precisa ser.
+    
+    // throws  | throw      |Esta é uma das situações mais complicadas de compreensão destas duas palavras. Enquanto a throws determina que um método pode lançar uma exceção, throw é a implementação que dispara a exceção**. Vamos conhecer mais sobre este conceito no assunto Exceções.**
 
 }
