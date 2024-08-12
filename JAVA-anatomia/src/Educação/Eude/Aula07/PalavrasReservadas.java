@@ -135,11 +135,11 @@ public class PalavrasReservadas {
     De acordo com a Java Language Specification, null, true e false são tecnicamente chamados de valores literais, e não keywords. Se você tentar criar algum identificador com estes valores, você também terá um erro de compilação.
     */
 
-    //Uso	  |Palavras                                                                     
-    //Arquivo |package, import, static
-    //Classe  |public ou protected ou private + final ou abstract extends ou implements
-    //Método  |public ou protected ou private + static ou final ou abstract + void e return
-    //Atributo|public ou protected ou private + static ou final + tipo primitivo
+    //Uso	  | Palavras                                                                     
+    //Arquivo | package, import, static
+    //Classe  | public ou protected ou private + final ou abstract extends ou implements
+    //Método  | public ou protected ou private + static ou final ou abstract + void e return
+    //Atributo| public ou protected ou private + static ou final + tipo primitivo
 
     //         obs
     //Arquivo | ***
