@@ -6,7 +6,7 @@ public class While {
         int doce = 2;
         while (doce <= dinheiro) {
             
-            dinheiro = dinheiro - doce;
+            dinheiro -= doce;
             System.err.println(dinheiro);
         }
     }
