@@ -16,13 +16,13 @@ public class Contador {
     }
     }
     static void contar(int primeiroNumero, int segundoNumero) throws ParametrosInvalidosException {
-		//validar se parametroUm é MAIOR que parametroDois e lançar a exceção
+	
 		if (primeiroNumero >= segundoNumero) {
             throw new ParametrosInvalidosException("O segundo número deve ser maior que o primeiro");
         }
 
 		int contagem = segundoNumero - primeiroNumero;
-		//realizar o for para imprimir os números com base na variável contagem
+	
         for(int i = 1; i <= contagem;i++){
             System.out.println("Imprimindo número: " + i);
         }
