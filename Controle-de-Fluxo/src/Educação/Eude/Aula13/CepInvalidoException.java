@@ -6,7 +6,7 @@ public class CepInvalidoException extends Exception{
             String cepFormatado = formatarCep("1234678901");
             System.out.println(cepFormatado);
         } catch (CepInvalidoException e) {
-            // TODO Auto-generated catch block
+        
             System.out.println("Cep não corresponde com as regras de quantidade de números");
         }
     }
