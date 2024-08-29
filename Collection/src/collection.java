@@ -1,4 +1,3 @@
-import java.util.List;
 public class collection {
     public static void main(String[] args) {
         /* Uma coleção (collection) é uma estrutura de dados que serve para agrupar muitos elementos em uma única unidade; estes elementos precisam ser objetos.
