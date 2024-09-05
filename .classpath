@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Collection/src"/>
+	<classpathentry excluding="Educação/Eude/Desafio/Desafio-Controle-fluxo/src/|Educação/Eude/Aula11/" kind="src" path="Controle-de-Fluxo/src"/>
+	<classpathentry kind="src" path="Controle-de-Fluxo/src/Educação/Eude/Aula11"/>
+	<classpathentry kind="src" path="Controle-de-Fluxo/src/Educação/Eude/Desafio/Desafio-Controle-fluxo/src"/>
+	<classpathentry kind="src" path="Desafios/POO-Pilares/src"/>
+	<classpathentry kind="src" path="JAVA-anatomia/src"/>
+	<classpathentry kind="src" path="Meu primeiro projeto java/src"/>
+	<classpathentry excluding="Escola/" kind="src" path="POO/src"/>
+	<classpathentry kind="src" path="POO/src/Escola"/>
+	<classpathentry kind="output" path="Meu primeiro projeto java/bin"/>
+</classpath>
