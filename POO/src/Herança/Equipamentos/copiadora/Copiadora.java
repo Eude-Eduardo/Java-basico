@@ -1,4 +1,4 @@
-package Herança.Equipamentos.copiadora;
+package Equipamentos.copiadora;
 
 public interface Copiadora {
     public void copiar();

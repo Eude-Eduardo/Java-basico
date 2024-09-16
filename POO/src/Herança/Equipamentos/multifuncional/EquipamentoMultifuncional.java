@@ -1,8 +1,8 @@
-package Herança.Equipamentos.multifuncional;
+package Equipamentos.multifuncional;
 
-import Herança.Equipamentos.Digitalizadora.Digitalizadora;
-import Herança.Equipamentos.Impressora.Impressora;
-import Herança.Equipamentos.copiadora.Copiadora;
+import Equipamentos.Digitalizadora.Digitalizadora;
+import Equipamentos.Impressora.Impressora;
+import Equipamentos.copiadora.Copiadora;
 
 public class EquipamentoMultifuncional implements Copiadora, Digitalizadora, Impressora{
 

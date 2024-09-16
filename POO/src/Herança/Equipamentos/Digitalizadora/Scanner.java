@@ -1,4 +1,4 @@
-package Herança.Equipamentos.Digitalizadora;
+package Equipamentos.Digitalizadora;
 
 public class Scanner implements Digitalizadora{
     public void digitalizar(){

@@ -1,4 +1,4 @@
-package Herança.Equipamentos.Impressora;
+package Equipamentos.Impressora;
 
 public class DeskJet implements Impressora{
     public void imprimindo(){

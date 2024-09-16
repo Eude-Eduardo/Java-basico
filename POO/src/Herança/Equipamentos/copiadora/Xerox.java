@@ -1,4 +1,4 @@
-package Herança.Equipamentos.copiadora;
+package Equipamentos.copiadora;
 
 public class Xerox implements Copiadora{
     public void copiar(){

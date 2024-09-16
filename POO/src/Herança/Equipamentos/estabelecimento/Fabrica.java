@@ -1,12 +1,11 @@
-package Herança.Equipamentos.estabelecimento;
+package Equipamentos.estabelecimento;
 
-import Herança.Equipamentos.Digitalizadora.Digitalizadora;
-import Herança.Equipamentos.Digitalizadora.Scanner;
-import Herança.Equipamentos.Impressora.DeskJet;
-import Herança.Equipamentos.Impressora.Impressora;
-import Herança.Equipamentos.Impressora.Laserjet;
-import Herança.Equipamentos.copiadora.Copiadora;
-import Herança.Equipamentos.multifuncional.EquipamentoMultifuncional;
+import Equipamentos.Digitalizadora.Digitalizadora;
+import Equipamentos.Digitalizadora.Scanner;
+import Equipamentos.Impressora.DeskJet;
+import Equipamentos.Impressora.Impressora;
+import Equipamentos.copiadora.Copiadora;
+import Equipamentos.multifuncional.EquipamentoMultifuncional;
 
 public class Fabrica {
     public static void main(String[] args) {

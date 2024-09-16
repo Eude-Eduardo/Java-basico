@@ -1,4 +1,4 @@
-package Herança.Equipamentos.Impressora;
+package Equipamentos.Impressora;
 
 public class Laserjet implements Impressora{
     public void imprimindo(){
